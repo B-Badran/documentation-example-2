@@ -8,7 +8,7 @@ Let's make a list (empty surrounding lines required):
 - Thermodynamic videos
 
   - https://www.youtube.com/watch?v=2nUuvm5H12Q&t=9s
-  - nested item 2
+  - We can add the book site
 
 - item 2
 - item 3
